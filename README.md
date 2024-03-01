@@ -1,1 +1,1 @@
-# Juaa
+# Juaa ( A dice game )
